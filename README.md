@@ -1,2 +1,3 @@
 # Tarea-1
-https://img-c.udemycdn.com/course/750x422/3352204_9c9a_20.jpg
+<img width="483" height="331" alt="image" src="https://github.com/user-attachments/assets/f6e160e3-1522-495d-aa24-a0d406761f7b" />
+
